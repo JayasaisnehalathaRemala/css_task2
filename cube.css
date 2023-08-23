@@ -1,0 +1,142 @@
+
+table {
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 25%;
+    height: 43%;
+    margin: 15%;
+}
+td,th{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+input[type~="transition"] {
+    transition-duration : 4s;
+}
+.a:hover {
+    background-color: rgb(161, 222, 202);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.b:hover {
+    background-color: rgb(177, 109, 88);
+    transform: rotatex(180deg);
+    transition-duration: 2s;
+}
+.c:hover {
+    background-color: rgb(98, 104, 102);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.d:hover {
+    background-color: rgb(11, 64, 68);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.e:hover {
+    background-color: rgb(61, 125, 41);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.f:hover {
+    background-color: rgb(155, 142, 46);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.g:hover {
+    background-color: rgb(132, 143, 139);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.h:hover {
+    background-color: rgb(47, 103, 17);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.i:hover {
+    background-color: rgb(78, 28, 171);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.j:hover {
+    background-color: rgb(38, 124, 195);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.k:hover {
+    background-color: rgb(210, 27, 27);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.l:hover {
+    background-color: rgb(100, 8, 92);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.m:hover {
+    background-color: rgb(31, 121, 142);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.n:hover {
+    background-color: rgb(205, 49, 174);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.o:hover {
+    background-color: rgb(212, 133, 22);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.p:hover {
+    background-color: rgb(194, 156, 220);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.q:hover {
+    background-color: rgb(39, 13, 106);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.r:hover {
+    background-color: rgb(213, 232, 7);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.s:hover {
+    background-color: rgb(218, 20, 20);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.t:hover {
+    background-color: rgb(120, 219, 49);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.u:hover {
+    background-color: rgb(178, 210, 73);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.v:hover {
+    background-color: rgb(103, 55, 109);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+
+.w:hover {
+    background-color: rgb(33, 192, 204);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.x:hover {
+    background-color: rgb(202, 88, 88);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
+.y:hover {
+    background-color: rgb(20, 97, 66);
+    transform: rotatey(180deg);
+    transition-duration: 2s;
+}
